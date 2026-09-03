@@ -90,3 +90,6 @@ first Allocate and and the Associte this Elatice IP to the instance
 
 ### how to install the packages or the run some script when the ec2 instance luanch 
 
+
+
+
